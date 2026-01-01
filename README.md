@@ -2,7 +2,7 @@
 
 A comprehensive, professional platform for managing, editing, validating, and exporting structured AI instruction modules. Built with Next.js, TypeScript, and modern web technologies.
 
- 
+ ### The original repository is private due to security principles.
 > **👉 Use the live demo below to explore and use the system.**
 
 ## 🌐 Live Demo
